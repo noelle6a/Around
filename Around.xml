@@ -14,7 +14,7 @@
             <field name="OP">GT</field>
             <value name="A">
               <block type="sensor_object" id="5">
-                <field name="OBJECT">RIGHTSIDE</field>
+                <field name="OBJECT">LEFTSIDE</field>
               </block>
             </value>
             <value name="B">
