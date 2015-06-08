@@ -1,0 +1,10 @@
+{
+    "name": "Around",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "Around.xml",
+    "author": "noelle6a",
+    "minimum_firmware_version": 42
+}
